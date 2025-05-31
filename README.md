@@ -1,6 +1,6 @@
-# TaskFlow
+# TaskManager
 
-O **TaskFlow** é uma aplicação de gestão de tarefas desenvolvida para ajudar usuários a organizar, executar e conquistar seus objetivos. Este projeto tem como foco o ensino de conceitos fundamentais de Programação Orientada a Objetos (POO) e boas práticas de desenvolvimento em Java, através de uma solução interativa e funcional para gerenciamento de tarefas.
+O **TaskManager** é uma aplicação de gestão de tarefas desenvolvida para ajudar usuários a organizar, executar e conquistar seus objetivos. Este projeto tem como foco o ensino de conceitos fundamentais de Programação Orientada a Objetos (POO) e boas práticas de desenvolvimento em Java, através de uma solução interativa e funcional para gerenciamento de tarefas.
 
 ## Funcionalidades
 
